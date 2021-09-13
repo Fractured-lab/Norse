@@ -1,3 +1,3 @@
 # Norse
 
-echo boy oh boy isn't this fun
+boy oh boy isn't this fun
